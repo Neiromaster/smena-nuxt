@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="611px" height="360px" viewBox="0 0 611 360" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>A384FE9E-624C-4C86-B935-A56033B9F4AD</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="2.7879574%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#D5F3FF" offset="0%"></stop>
+            <stop stop-color="#05A0F9" offset="45.8182803%"></stop>
+            <stop stop-color="#2868F0" offset="52.1382767%"></stop>
+            <stop stop-color="#0148DE" offset="59.5669256%"></stop>
+            <stop stop-color="#0148DE" offset="79.9110368%"></stop>
+            <stop stop-color="#0148DE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="landing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="smena_lp" transform="translate(-677.000000, -1053.000000)">
+            <g id="Group-8" transform="translate(677.000000, 1053.000000)">
+                <path d="M480.42551,209.970862 L548.020364,441.030396 C557.944703,474.954768 538.488831,510.501172 504.564458,520.42551 C498.72734,522.133119 492.67662,523 486.594854,523 L351.405146,523 C316.058922,523 287.405146,494.346224 287.405146,459 C287.405146,452.918234 288.272027,446.867514 289.979636,441.030396 L357.57449,209.970862 C367.498828,176.046489 403.045232,156.590618 436.969604,166.514956 C457.917033,172.64298 474.297486,189.023434 480.42551,209.970862 Z" id="Triangle" fill="url(#linearGradient-1)" transform="translate(419.000000, 261.500000) scale(1, -1) translate(-419.000000, -261.500000) "></path>
+                <g id="Group-9" transform="translate(560.000000, 9.000000)">
+                    <text id="Смена" transform="translate(45.500000, 98.000000) rotate(-270.000000) translate(-45.500000, -98.000000) " font-family="Roboto-Regular, Roboto" font-size="18" font-weight="normal" line-spacing="18" fill="#FFFFFF">
+                        <tspan x="12" y="106">Смена</tspan>
+                    </text>
+                    <text id="Работодатель" transform="translate(45.000000, 279.000000) rotate(-270.000000) translate(-45.000000, -279.000000) " font-family="Roboto-Regular, Roboto" font-size="18" font-weight="normal" line-spacing="18" fill="#FFFFFF">
+                        <tspan x="-17" y="287">Работодатель</tspan>
+                    </text>
+                    <path d="M0.2,1 L19.8,1" id="Line-2" stroke="#FFFFFF" stroke-linecap="square"></path>
+                    <path d="M0.2,216 L19.8,216" id="Line-2-Copy-2" stroke="#FFFFFF" stroke-linecap="square"></path>
+                    <path d="M0.2,196 L19.8,196" id="Line-2-Copy" stroke="#FFFFFF" stroke-linecap="square"></path>
+                    <path d="M0.2,340 L19.8,340" id="Line-2-Copy-3" stroke="#FFFFFF" stroke-linecap="square"></path>
+                    <path d="M19.7,0.871244635 L19.7,195.861543" id="Line-3" stroke="#FFFFFF" stroke-linecap="square"></path>
+                    <path d="M19.7,216.15264 L19.7,339.665329" id="Line-3-Copy" stroke="#FFFFFF" stroke-linecap="square"></path>
+                </g>
+                <text id="100-000" font-family="Roboto-Regular, Roboto" font-size="22" font-weight="normal" line-spacing="18" fill="#FFFFFF">
+                    <tspan x="363.506348" y="44.7646484">100 000</tspan>
+                </text>
+                <text id="21-000" font-family="Roboto-Regular, Roboto" font-size="22" font-weight="normal" line-spacing="18" fill="#FFFFFF">
+                    <tspan x="369.683105" y="113.764648">21 000</tspan>
+                </text>
+                <text id="3-000" font-family="Roboto-Regular, Roboto" font-size="22" font-weight="normal" line-spacing="18" fill="#FFFFFF">
+                    <tspan x="375.859863" y="183.764648">3 000</tspan>
+                </text>
+                <text id="900" font-family="Roboto-Regular, Roboto" font-size="22" font-weight="normal" line-spacing="18" fill="#FFFFFF">
+                    <tspan x="384.759766" y="252.764648">900</tspan>
+                </text>
+                <text id="300" font-family="Roboto-Regular, Roboto" font-size="22" font-weight="normal" line-spacing="18" fill="#FFFFFF">
+                    <tspan x="384.759766" y="325.764648">300</tspan>
+                </text>
+                <path d="M1,358.855497 L420.5,358.855497" id="Line" stroke="#FFFFFF" opacity="0.5" stroke-linecap="square"></path>
+                <path d="M1,286 L487.934468,286" id="Line-Copy" stroke="#FFFFFF" opacity="0.5" stroke-linecap="square"></path>
+                <path d="M1,215 L508.710212,215" id="Line-Copy-2" stroke="#FFFFFF" opacity="0.5" stroke-linecap="square"></path>
+                <path d="M1,143 L529.775441,143" id="Line-Copy-3" stroke="#FFFFFF" opacity="0.5" stroke-linecap="square"></path>
+                <text id="Общее-количество-рез" font-family="Roboto-Regular, Roboto" font-size="18" font-weight="normal" line-spacing="18" fill="#FFFFFF">
+                    <tspan x="0" y="51">Общее количество резюме</tspan>
+                </text>
+                <text id="Нанято-на-работу" font-family="Roboto-Regular, Roboto" font-size="18" font-weight="normal" line-spacing="18" fill="#FFFFFF">
+                    <tspan x="0" y="338">Нанято на работу</tspan>
+                </text>
+                <text id="Проведено-собеседова" font-family="Roboto-Regular, Roboto" font-size="18" font-weight="normal" line-spacing="18" fill="#FFFFFF">
+                    <tspan x="0" y="265">Проведено собеседований</tspan>
+                </text>
+                <text id="Полученные-позитивны" font-family="Roboto-Regular, Roboto" font-size="18" font-weight="normal" line-spacing="18" fill="#FFFFFF">
+                    <tspan x="0" y="194">Полученные позитивные отклики</tspan>
+                </text>
+                <text id="Разосланные-приглаше" font-family="Roboto-Regular, Roboto" font-size="18" font-weight="normal" line-spacing="18" fill="#FFFFFF">
+                    <tspan x="0" y="122">Разосланные приглашения</tspan>
+                </text>
+                <path d="M1,72 L550.611521,72" id="Line-Copy-4" stroke="#FFFFFF" opacity="0.5" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>
